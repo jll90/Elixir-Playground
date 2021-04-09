@@ -15,4 +15,8 @@ defmodule ExPlayground do
   def hello do
     :world
   end
+
+  def bye do
+    :world
+  end
 end

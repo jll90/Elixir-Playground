@@ -5,4 +5,8 @@ defmodule ExPlaygroundTest do
   test "greets the world" do
     assert ExPlayground.hello() == :world
   end
+
+  test "says goodbye to the world" do
+    assert ExPlayground.hello() == :worlx
+  end
 end
